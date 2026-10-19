@@ -1,46 +1,41 @@
 # 🌐 Icreativez Website Clone
 
-A frontend website recreation inspired by Icreativez, built to practise web development, responsive layouts, and modern website styling using HTML, CSS, JavaScript, and Bootstrap.
+A frontend website clone inspired by Icreativez, developed using HTML and CSS to practise website structure, styling, and layout design.
 
 ## ✨ Features
 
-🌐 Structured website layout  
-🎨 Styled sections and visual elements  
-📱 Responsive design using Bootstrap *(if implemented)*  
-🧭 Navigation and page sections  
-⚡ Interactive elements using JavaScript *(if implemented)*  
-💻 Clean frontend implementation  
+🌐 Structured webpage layout  
+🎨 Custom CSS styling  
+📐 Organized sections and content  
+🧭 Website navigation layout  
+💻 Clean and simple user interface  
 
 ## 🛠️ Technologies Used
 
 - **HTML5** – Website structure and content
-- **CSS3** – Styling, layouts, and visual design
-- **JavaScript** – Interactive functionality
-- **Bootstrap** – Responsive grid system and UI components
+- **CSS3** – Styling, layouts, colors, and visual design
 
 ## 🎯 Project Purpose
 
-This project was created to strengthen my frontend development skills by recreating an existing website design and applying core web technologies.
+This project was created to strengthen my frontend development skills by recreating a website design using fundamental web technologies.
 
 Key learning objectives include:
 
-- Building structured web pages with HTML
-- Styling website sections with CSS
-- Creating responsive layouts with Bootstrap
-- Practising JavaScript for interactive functionality
-- Improving layout consistency and visual presentation
-- Understanding how real-world websites are structured
+- Structuring webpages with HTML
+- Styling elements using CSS
+- Working with margins, padding, and alignment
+- Practising website layouts and visual consistency
+- Improving frontend design skills
 
 ## 🚀 How to Run
 
 1. Clone or download this repository.
 2. Open the project folder in your code editor.
-3. Locate `index.html`.
-4. Open it in your browser to explore the website.
+3. Open `index.html` in your web browser.
 
 ## 💡 Learning Outcome
 
-Developing this project helped me practise website recreation, frontend layout development, CSS styling, Bootstrap components, and the fundamentals of building user interfaces.
+Building this project helped me improve my understanding of HTML structure, CSS styling, webpage layouts, and the process of recreating website designs from scratch.
 
 ## 👩‍💻 Author
 
